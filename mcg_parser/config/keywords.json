@@ -1,0 +1,17 @@
+{
+    "tokens": {
+        "BLOCK": "Block",
+        "NAME": "Name",
+        "DESCRIPTION": "Description:",
+        "EXPECTEDRESULT": "ExpectedResult",
+        "DELAY": "Delay",
+        "REPEAT": "Repeat",
+        "TIMERID": "TimerID",
+        "TIMERDURATION": "TimerDuration",
+        "PIN": "Pin",
+        "TRIGGER": "Trigger",
+        "CLOCKFREQUENCY": "ClockFrequency",
+        "DUTYCYCLE": "DutyCycle",
+        "ARGUMENTS": "Arguments:"
+    }
+}
